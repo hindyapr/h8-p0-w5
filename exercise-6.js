@@ -7,7 +7,7 @@ function attack(damage) {
 
 function damageCalculation(numberOfAttacks, damagePerAttack) {
     // Code disini
-
+    //coba
     return numberOfAttacks * attack(damagePerAttack);
 }
 
