@@ -2,7 +2,7 @@
 
 function cariPelaku(str) {
     // you can only write your code here!
-    var hasil = str.match(/ab/g);
+    var hasil = str.match(/abc/g);
 
     return hasil.length;
 }
